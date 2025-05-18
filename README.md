@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm Cody a graduate student at UT Austin Mechanical Engineering department. 
+- 🔭 I’m currently working on a project to make a optical metrology tool for use on a roll-to-roll machine. 
+- 🌱 I’m currently learning Code V, Lumerical, TACC (Slurm), and PyTorch.
+- ⚡ Fun fact: I have no idea what I'm doing.  
 <!--
 **kslee-cody/kslee-cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
